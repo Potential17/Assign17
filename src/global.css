@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-dm-serif-text: "DM Serif Text";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-18xl-3: 37.3px;
+  --font-size-lgi-8: 19.8px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-mediumspringgreen: #41d673;
+  --color-gray-100: #0a0a0a;
+  --color-dimgray: #616161;
+  --color-crimson: #d73032;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-131xl-8: 150.8px;
+  --br-82xl-2: 101.2px;
+}
